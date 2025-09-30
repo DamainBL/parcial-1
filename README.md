@@ -12,7 +12,7 @@ Este archivo define cuatro clases llamadas `libros` `personas` `registro` `regis
 
 A continuación se muestran capturas de pantalla de la ejecución del programa:
 
-### ✅ Ejemplo de uso de registro de usuario y libro
+### Ejemplo de uso de registro de usuario y libro
 
-![Ejecución de clase gato](https://github.com/DamainBL/poo-gatosyperros/blob/main/imagen/gato1.png?raw=true)
+![Ejecución de registro de libro](gg)
 
