@@ -14,5 +14,5 @@ A continuación se muestran capturas de pantalla de la ejecución del programa:
 
 ### Ejemplo de uso de registro de usuario y libro
 
-![Ejecución de registro de libro]([https://github.com/DamainBL/parcial-1/blob/main/captura1.png])
+![Ejecución de registro de libro](https://github.com/DamainBL/parcial-1/blob/main/captura1.png)
 
