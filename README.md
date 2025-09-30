@@ -1,2 +1,18 @@
-# parcial-1
-primer parcial clase programación orientada a objetos
+# Parcial 1
+
+Este repositorio contiene el script de Python donde se implementan y utilizan **clases** para simular una biblioteca.
+
+## 📁 Archivos incluidos
+
+### `parcial.py`
+
+Este archivo define cuatro clases llamadas `libros` `personas` `registro` `registro_libros`, la cual contiene atributos como nombre, apellidos, categoria del libro, y respectivos metodos para mostrarlos
+
+## Ejecuciones del programa
+
+A continuación se muestran capturas de pantalla de la ejecución del programa:
+
+### ✅ Ejemplo de uso de registro de usuario y libro
+
+![Ejecución de clase gato](https://github.com/DamainBL/poo-gatosyperros/blob/main/imagen/gato1.png?raw=true)
+
